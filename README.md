@@ -91,6 +91,20 @@ Non-functional requirements specify the quality attributes, system performance, 
 
 - **Availability**  
   The system should maintain 99.9% uptime to ensure that users can access the booking platform at any time.
+  Use Case Diagrams
+Use Case Diagrams are a type of behavioral diagram in Unified Modeling Language (UML) that represent the interactions between users (actors) and the system. They provide a visual overview of the functional requirements of a system, illustrating how users will interact with different features.
+
+## Benefits of Use Case Diagrams
+**Visualization**: They provide a clear visual representation of the system's functionality, making it easier for stakeholders to understand the interactions.
+
+**Communication**: Use Case Diagrams facilitate communication among stakeholders, developers, and testers by providing a common understanding of system requirements.
+
+**Requirement Gathering**: They help in identifying and clarifying requirements by focusing on user interactions and system responses.
+
+**Scope Definition**: By outlining actors and their interactions with the system, they help define the scope of the project.
+
+**Use Case Diagram for the Booking System**
+The following diagram illustrates the actors and use cases for the booking management system:https://drive.google.com/file/d/1SxvQ6P2e1NAxnbHEAtSguGDIRNGM8_bv/view?usp=sharing
 -----------------------------------------------------------------------------------------------------------------
 
 # Acceptance Criteria
