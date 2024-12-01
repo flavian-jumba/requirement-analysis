@@ -32,3 +32,23 @@ Requirement Analysis is a crucial phase in the Software Development Life Cycle (
 
 3. **Cost Efficiency**  
    Investing time in Requirement Analysis can lead to significant cost savings. By thoroughly understanding requirements upfront, teams can reduce the likelihood of costly changes and rework during later phases, ultimately leading to a more efficient development process.
+
+# Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that ensure a comprehensive understanding of project requirements. The following are the five essential activities:
+
+- **Requirement Gathering**  
+  This is the initial phase where information is collected from stakeholders through interviews, surveys, and discussions. The goal is to gather as much relevant information as possible to understand the project's needs.
+
+- **Requirement Elicitation**  
+  In this activity, analysts engage with stakeholders to extract detailed requirements. Techniques such as brainstorming sessions, workshops, and use case development are employed to uncover hidden needs and expectations.
+
+- **Requirement Documentation**  
+  This involves formally documenting the gathered and elicited requirements in a clear and organized manner. Proper documentation serves as a reference point throughout the SDLC and ensures that all stakeholders have a shared understanding of the requirements.
+
+- **Requirement Analysis and Modeling**  
+  During this phase, the documented requirements are analyzed for feasibility, consistency, and completeness. Various modeling techniques, such as flowcharts and UML diagrams, may be used to visualize requirements and their relationships.
+
+- **Requirement Validation**  
+  This final activity ensures that the documented requirements accurately reflect stakeholder needs and expectations. Validation techniques include reviews, walkthroughs, and prototyping to confirm that the requirements are correct and achievable.
+
