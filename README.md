@@ -91,3 +91,36 @@ Non-functional requirements specify the quality attributes, system performance, 
 
 - **Availability**  
   The system should maintain 99.9% uptime to ensure that users can access the booking platform at any time.
+-----------------------------------------------------------------------------------------------------------------
+
+# Acceptance Criteria
+
+Acceptance Criteria are essential conditions that a product or feature must satisfy to be accepted by stakeholders, including customers and project managers. They play a critical role in Requirement Analysis for several reasons:
+
+- **Clarity**: Acceptance Criteria provide a clear understanding of what is expected from a feature, reducing ambiguity and ensuring that all stakeholders have the same expectations.
+
+- **Scope Definition**: They help in defining the boundaries of a feature, outlining what is included and what is not, which aids in preventing scope creep.
+
+- **Testing Framework**: Acceptance Criteria serve as a basis for testing, allowing QA teams to create test cases that verify whether the feature meets the specified requirements.
+
+- **Stakeholder Agreement**: They facilitate discussions among stakeholders, ensuring that everyone agrees on the requirements before development begins.
+
+### Example of Acceptance Criteria for the Checkout Feature
+
+For the Checkout feature in the booking management system, the following acceptance criteria can be established:
+
+1. **User Authentication**  
+   - The user must be logged in to access the checkout process.
+
+2. **Booking Summary**  
+   - The checkout page must display a summary of the booking, including hotel name, check-in and check-out dates, total price, and any applicable discounts.
+
+3. **Payment Options**  
+   - Users must have at least three payment options available (e.g., credit card, PayPal, and bank transfer).
+
+4. **Error Handling**  
+   - If payment fails, the system must display an error message and allow the user to retry the payment process without losing their booking details.
+
+5. **Confirmation Notification**  
+   - Upon successful payment, the user must receive an email confirmation with booking details and a unique booking reference number.
+
