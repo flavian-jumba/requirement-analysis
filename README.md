@@ -103,7 +103,8 @@ Use Case Diagrams are a type of behavioral diagram in Unified Modeling Language 
 
 **Scope Definition**: By outlining actors and their interactions with the system, they help define the scope of the project.
 
-**Use Case Diagram for the Booking System**
+Use Case Diagram for the Booking System
+
 The following diagram illustrates the actors and use cases for the booking management system:https://drive.google.com/file/d/1SxvQ6P2e1NAxnbHEAtSguGDIRNGM8_bv/view?usp=sharing
 -----------------------------------------------------------------------------------------------------------------
 
