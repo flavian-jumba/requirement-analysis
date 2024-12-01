@@ -52,3 +52,42 @@ Requirement Analysis involves several key activities that ensure a comprehensive
 - **Requirement Validation**  
   This final activity ensures that the documented requirements accurately reflect stakeholder needs and expectations. Validation techniques include reviews, walkthroughs, and prototyping to confirm that the requirements are correct and achievable.
 
+# Types of Requirements
+
+## Functional Requirements
+
+Functional requirements define the specific behaviors, functionalities, and operations of the system. They describe what the system should do and how it should respond to particular inputs. Examples for the booking management project include:
+
+- **User Registration and Login**  
+  Users must be able to register an account and log in to access their booking history and manage reservations.
+
+- **Search Functionality**  
+  Customers should be able to search for hotels based on various criteria such as location, price range, and amenities.
+
+- **Booking Process**  
+  The system must allow users to select a hotel, choose dates, and complete the booking process, including payment processing.
+
+- **Admin Dashboard**  
+  Hotel managers should have access to an admin dashboard to manage hotel listings, view bookings, and update availability.
+
+- **Notifications**  
+  The system should send notifications to customers and managers regarding booking confirmations, cancellations, and special offers.
+
+## Non-functional Requirements
+
+Non-functional requirements specify the quality attributes, system performance, and constraints under which the system must operate. They describe how the system performs its functions. Examples for the booking management project include:
+
+- **Performance**  
+  The system should handle up to 10,000 concurrent users with a response time of less than 2 seconds for search queries.
+
+- **Scalability**  
+  The architecture must support horizontal scaling to accommodate increased traffic during peak booking seasons.
+
+- **Security**  
+  User data must be encrypted, and the system must comply with data protection regulations (e.g., GDPR) to ensure user privacy.
+
+- **Usability**  
+  The user interface should be intuitive and easy to navigate, ensuring that users can complete bookings with minimal effort.
+
+- **Availability**  
+  The system should maintain 99.9% uptime to ensure that users can access the booking platform at any time.
